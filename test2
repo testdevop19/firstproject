@@ -1,6 +1,4 @@
 This is second file in main for checking pull request
-<<<<<<< HEAD
 This is second commit on test2
-=======
 updating test2 in local
->>>>>>> 01825c8 (test2 updated)
+
